@@ -1,0 +1,19 @@
+public class Person{
+
+	String name;
+	int age;
+	double height;
+	String ethnicity;
+	String religion;
+	String nationality;
+	String gender;
+	String city;
+	String fathername;
+	
+
+
+
+
+
+
+}
