@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class UserInfo{
 	static String Email="FA24-BCS-137@cuilahore.edu.pk";
-	static String Password="Cui@lahore";
+	static String Password="Cui@lahore2024";
 
 	public static void main(String args[]){
 	Scanner sc=new Scanner(System.in);
